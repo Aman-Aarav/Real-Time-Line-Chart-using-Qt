@@ -3,7 +3,7 @@
 Real-time data visualization in Qt using QChart and QTimer.
 Topics: qt, c++, charts, data-visualization, real-time, qchart, qtwidgets
 
-eatures
+Features
             
     Real-Time Plotting: Continuously adds data points (simulated sine wave).
     QTimer-Based Updates: Automatically updates every 50 ms.
